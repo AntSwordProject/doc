@@ -3,7 +3,7 @@
 
 > 仅适用 AntSword >=v2.0.0-beta
 
-### 1.获取蚁剑源代码
+##### 1.获取蚁剑源代码
 
 ```
 $ git clone https://github.com/antoor/antSword.git
@@ -17,7 +17,7 @@ $ git clone https://github.com/antoor/antSword.git
 >
 > 蚁剑的源代码仅托管在 [Github](https://github.com/antoor/antSword)，为杜绝源代码中植入后门，官方团队强烈建议使用者从官方仓库获取源代码。
 
-### 2.下载蚁剑加载器
+##### 2.下载蚁剑加载器
 
 从 v2.0.0-beta 版本开始，我们引入了加载器这一概念。用户/开发者只需要下载对应平台的加载器，无需安装额外的环境，即可对源代码进行编辑/执行/调试等操作。可直接运行当前最新的开发版和发行版源代码。
 
@@ -29,7 +29,7 @@ $ git clone https://github.com/antoor/antSword.git
 * [AntSword-windows-ia32.zip]()
 * [AntSword-windows-x64.zip]()
 
-### 3. 加载源代码
+##### 3. 加载源代码
 
 首次打开加载器时，界面如下图所示：
 
