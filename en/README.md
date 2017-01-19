@@ -1,4 +1,5 @@
-﻿# antSword
+﻿AntSword
+===
 
 [Fork me on GitHub](https://github.com/antoor/antSword)
 
