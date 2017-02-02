@@ -47,7 +47,7 @@
         * [Develop default shells](core_dev/shell/default_shells.md)
         * [Develop Customizable shells](core_dev/shell/custom_shells.md)
 * [Make Contributions](contribute_docs.md)
-* [CONTENTSj](CONTENTS.md)
+* [CONTENTS](CONTENTS.md)
 * [CHANGELOG](CHANGELOG.md)
 * [THANKS](THANKS.md)
 * [License]()
