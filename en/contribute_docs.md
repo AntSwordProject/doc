@@ -17,18 +17,18 @@ Talking about the documents, the following documents are not perfect yet. We nee
 
 
 * [Shell Manager](shell_manager/README.md)
-    * [Main Interface](shell_manager/main_page.md)
+    * [UI](shell_manager/main_page.md)
     * [Categories](shell_manager/category.md)
-    * [Shell Configuration](shell_manager/shell_config.md)
+    * [Shell Config](shell_manager/shell_config.md)
 * [File Manager](file_manager/README.md)
-    * [Mail Interface](file_manager/main_page.md)
+    * [UI](file_manager/main_page.md)
     * [How to](file_manager/operation.md)
 * [Terminal](terminal/README.md)
-    * [Main Interface](terminal/main_page.md)
-    * [Terminal Configuration](terminal/terminal_config.md)
-* [Database Management](database/README.md)
-    * [Main Interface](database/main_page.md)
-    * [Configuration](database/database_config.md)
+    * [UI](terminal/main_page.md)
+    * [Terminal Config](terminal/terminal_config.md)
+* [Database Manager](database/README.md)
+    * [UI](database/main_page.md)
+    * [Config](database/database_config.md)
 
 
 ### Donations
