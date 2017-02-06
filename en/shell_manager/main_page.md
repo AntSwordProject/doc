@@ -1,4 +1,4 @@
-Main Interface
+UI
 ---
 
 「Shell Management」 is setted by default when you are using AntSword. The left panel is 「Shell Lists」 while the right one is 「Categories Management」. A menu can be popped up by clicking at any blank area.
@@ -62,7 +62,6 @@ Please see details in [Shell Management - Categories Management](./category.md)
 
  Clear the local cache of current webshell.
 
- > 修改配置之后，不会自动清空缓存，需要根据实际使用场景，手动清空缓存
  > AntSword won't clear cache automatically. You have to do it manually according situations.
 
 * **Clear All Cache**

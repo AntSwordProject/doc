@@ -1,4 +1,4 @@
-Shell Configuration
+Shell Config
 ---
 
 AntSword prusues the `free, flexible, highly extendible` config of shells, which can make shells more powerful and colorful.

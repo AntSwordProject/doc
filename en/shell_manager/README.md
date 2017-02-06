@@ -1,4 +1,4 @@
-Shell Management
+Shell Manager
 ---
 
 Shell is the `CORE` of AntSword. Everything of AntSword is developed by this.
@@ -7,6 +7,6 @@ The official repository of AntSword provides some [shells](https://github.com/an
 
 This chapter will introduce more features of shell management, including: 
 
-* Manage shells.
+* Shell manager.
 * Categories of shells.
-* Detailed shell configuration
+* Detailed shell config
