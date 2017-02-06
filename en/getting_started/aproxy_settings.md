@@ -30,9 +30,9 @@ After filling in anything needed, don't be hurry to `save` button. Firstly click
 
 ---
 
-##### What does proxies do?
+##### What do proxies do?
 
-* Connect the shell in the intranet
+* Connect to the shell which is part of intranet
 * Speed up your connection
 * Hide your real IP
 * Integrate with tools, such as BurpSuite.

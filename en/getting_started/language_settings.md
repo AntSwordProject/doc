@@ -1,7 +1,7 @@
 Language Setting
 ---
 
-AntSword supports many languages. `English` is enabled by default. You can do some changes according to you.
+AntSword supports many languages. `English` is enabled by default. You can change whenever you want.
 
 Procedures are as follows:
 
