@@ -13,7 +13,7 @@ After entering the shell management interface, choose one of shells you want to 
 
 Notice: Please make sure that the plugins that supports which type of shells do matches the current Shell. For example, you can't use `ASP scripts` while your shell is `PHP scripts`. The type of webshell can be found in details of local repo.
 
-**Anthor Example：**
+**Another Example：**
 
 > `phpinfo` plugin only support PHP-shell. ASP server won't be able to resolve that script.
 
@@ -22,7 +22,7 @@ Notice: Please make sure that the plugins that supports which type of shells do 
 
 Press `Shift` or `Ctrl`(`command` under OSX) and select the shell you want to load plugins. Then 「`right click`」 and select the plugins you want to load.
 
-Notice: Please make sure that the plugins itself support bening called batching, and the current shell has same type of plugins.
+Notice: Please make sure that the plugins itself support being called batching, and the current shell has same type of plugins.
 
 
 #### Results of Be Loaded

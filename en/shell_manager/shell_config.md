@@ -1,7 +1,7 @@
 Shell Config
 ---
 
-AntSword prusues the `free, flexible, highly extendible` config of shells, which can make shells more powerful and colorful.
+AntSword pursues the `free, flexible, highly extendible` config of shells, which can make shells more powerful and colorful.
 
 #### Basic Config
 
@@ -55,7 +55,7 @@ The basic config of shells includes basic information only. Connectivity of shel
 
  * default
 
-   This will transfer plain data without using any encoders. **HIGHLY NOT REMCOMMENDED.** Special characters will get escaped, which may result in errors.
+   This will transfer plain data without using any encoders. **HIGHLY NOT RECOMMENDED.** Special characters will get escaped, which may result in errors.
 
  * random
 
@@ -63,19 +63,19 @@ The basic config of shells includes basic information only. Connectivity of shel
 
  * base64
 
-   AntSword will use base64 to encode. **HIGHLY NOT REMCOMMENEDED.** This feature has already been marked by WAF.
+   AntSword will use base64 to encode. **HIGHLY NOT RECOMMENDED.** This feature has already been marked by WAF.
 
  * **chr**
 
-   AntSword will use `chr` function in PHP to communicate. (Only in PHP). **REMCOMMENEDED**
+   AntSword will use `chr` function in PHP to communicate. (Only in PHP). **RECOMMENDED**
 
  * **hex**
 
-   AntSword will transform data into hex to communicate in `ASPX` and `CUSTOME`. **REMCOMMENEDED**
+   AntSword will transform data into hex to communicate in `ASPX` and `CUSTOME`. **RECOMMENDED**
 
  * **xxxxdog**
 
-   Examples of cutomizeable encoder: (ONLY IN ASP) you have to use it with [asp_eval_xxxxdog.asp](https://github.com/antoor/antSword/tree/master/shells/asp_eval_xxxxdog.asp). **REMCOMMENEDED**
+   Examples of cutomizeable encoder: (ONLY IN ASP) you have to use it with [asp_eval_xxxxdog.asp](https://github.com/antoor/antSword/tree/master/shells/asp_eval_xxxxdog.asp). **RECOMMENDED**
 
    You may use classical cryptography, DES, AES or others to transfer data. Please see more details in [Encoder Development](../core_dev/encoder/README.md)
 
@@ -118,7 +118,7 @@ The basic config of shells includes basic information only. Connectivity of shel
 
 Communication will fail if certificates in server is not trusted or expired. You should open this up to ignore check of HTTPS.
 
-* **Cache For Termial**
+* **Cache For Terminal**
 
  The result won't be saved to cache by default when using terminal.You can set this up to make sure cache will be cached if your Connectivity is poor.
 
@@ -130,7 +130,7 @@ Communication will fail if certificates in server is not trusted or expired. You
 
 * **Customize path of executing the terminal**
 
- The default path for terminal is: `/bin/sh` and `cmd`. Please set up according to your own situation. `Absolute path` is REMCOMMENEDED.
+ The default path for terminal is: `/bin/sh` and `cmd`. Please set up according to your own situation. `Absolute path` is RECOMMENDED.
 
 [img_shell_config_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/shell_manager/shell_config_1.jpg
 [img_shell_config_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/shell_manager/shell_config_2.jpg

@@ -1,13 +1,13 @@
 Setting of Plugin Store
 ---
 
-Pluin Store provides 2 setting: 「`Language Setting`」「`Developer' Mode`」
+Plugin Store provides 2 setting: 「`Language Setting`」「`Developer' Mode`」
 
 ![][img_plugin_store_settings_1]
 
 ### Language Setting
 
-Customize your own lang in 「`Language Setting`」
+Customize your own language in 「`Language Setting`」
 
 ### Developer's Mode
 

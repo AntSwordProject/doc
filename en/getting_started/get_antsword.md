@@ -19,7 +19,7 @@ Of course, you also can go to [release page](https://github.com/antoor/antSword/
 
 ##### 2.Download AntSword Loader.
 
-Starting from v2.0.0-beta, we introduce the concepts of `Loader`. Users or developers only need to download the AntSword Loader according to your OS. Everyone can directly edit/execute/debug the lastest source code for developers and for users without extra environment.
+Starting from v2.0.0-beta, we introduce the concepts of `Loader`. Users or developers only need to download the AntSword Loader according to your OS. Everyone can directly edit/execute/debug the latest source code for developers and for users without extra environment.
 
 Please select specific loader according to your loader:
 
@@ -35,7 +35,7 @@ When you firstly open loader, the interface looks like this:
 
 ![firt time to open loader][img_get_antsword_1]
 
-Click 「`Initialize`」, select the dirctory of source code in 「`step 1`」. After initializing, repopen the AntSword loader. Then you should be able to see the main interface of AntSword.
+Click 「`Initialize`」, select the directory of source code in 「`step 1`」. After initializing, reopen the AntSword loader. Then you should be able to see the main interface of AntSword.
 
 ![Main Interface][img_get_antsword_2]
 

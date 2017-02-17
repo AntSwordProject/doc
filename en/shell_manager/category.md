@@ -7,13 +7,13 @@ Users can see all categories under the right side of shell management called 「
 
 ##### Add A New Category
 
-CLick 「Add」 button and type the name of category in the poped-up window. Then click 「confirm」 to add a new category.
+Click 「Add」 button and type the name of category in the pop-up window. Then click 「confirm」 to add a new category.
 
 ![][img_category_2]
 
 ##### Rename A Category
 
-Click the category you want to rename, then click 「rename」 button. Type name you want to use in the poped-up window and click 「confirm」.
+Click the category you want to rename, then click 「rename」 button. Type name you want to use in the pop-up window and click 「confirm」.
 
 ![][img_category_3]
 

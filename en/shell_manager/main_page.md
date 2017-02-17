@@ -18,7 +18,6 @@ Please see details in [Shell Management - Categories Management](./category.md)
 * **Terminal**
 
  Use [Terminal] (../terminal/README.md), and get a terminal by webshell.
- 进入[虚拟终端](../terminal/README.md)模块，选中 Shell
 
 * **File Management**
 
@@ -48,11 +47,11 @@ Please see details in [Shell Management - Categories Management](./category.md)
 
 * **Edit Data**
 
- Modify the current seleted config of webshell.
+ Modify the current selected config of webshell.
 
 * **Delete Data**
 
- Delete current selected webshell. Also AntSword supports delete serval webshells at the same time.
+ Delete current selected webshell. Also AntSword supports delete several webshells at the same time.
 
 * **Move Data**
 

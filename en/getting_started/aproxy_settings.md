@@ -18,7 +18,7 @@ select「Manual set the proxy」, and fill in the information needed.
 
 ![][img_aproxy_settings_2]
 
-After filling in anything needed, don't be hurry to `save` button. Firstly click `Test Connect`, and type any url you want to test in order to make sure everything is OK.
+After filling in anything needed, don't be hurry to `save` button. Firstly click `Test Connect`, and type any URL you want to test in order to make sure everything is OK.
 
 ![][img_aproxy_settings_3]
 

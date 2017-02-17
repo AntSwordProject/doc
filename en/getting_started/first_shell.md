@@ -7,7 +7,7 @@ They are as follows：
 
 > Take `PHP` as an Example:
 
-##### 1.create a shell file under specific web directory in your target server在目标服务器的Web目录下新建一个Shell
+##### 1.create a shell file under specific web directory in your target server
 
 File Name: `ant.php`
 
