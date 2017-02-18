@@ -34,7 +34,7 @@ AntSword 需要您的帮助，包括但不限于[插件开发](plugin_dev/README
 
 <img src="http://blog.evalbug.com/images/wechatimg.png" style="width:35%;"/>
 
-任何数额都不胜感激！
+任何数额都不胜感激！**请务必附上您的备注**
 
 ### <a name="doc_howto">文档完善流程
 

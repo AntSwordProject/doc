@@ -48,6 +48,6 @@
         * [CUSTOM 类服务端开发](core_dev/shell/custom_shells.md)
 * [支持蚁剑](contribute_docs.md)
 * [目录](CONTENTS.md)
-* [改动日志](CHANGELOG.md)
+* [改动历史](CHANGELOG.md)
 * [感谢列表](THANKS.md)
 * [法律声明]()
