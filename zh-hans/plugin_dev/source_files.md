@@ -77,4 +77,4 @@ module.exports = Plugin;
 
 如果该插件的 `multiple` 为`false`则在 `opt` 为一个当前选中的Shell对象，如果为`true`则`opt`的值为选中的Shell对象列表。你可以打开菜单栏中的「`调试`」菜单下的「`开发者工具`」，来观察两者区别。
 
-> 下一节将带你创建自己的第一个插件`phpinfo`
+> 下一节将带你创建自己的第一个插件`myphpinfo`
