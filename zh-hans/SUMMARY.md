@@ -30,7 +30,6 @@
     * [插件简介](plugin_dev/introduce.md)
     * [插件源文件说明](plugin_dev/source_files.md)
     * [创建插件](plugin_dev/create.md)
-    * [调试插件](plugin_dev/debug.md)
     * [发布插件](plugin_dev/deploy.md)
     * [插件参数](plugin_dev/api.md)
 * [核心框架开发](core_dev/README.md)
