@@ -38,6 +38,7 @@ If AntSword makes great convenience for you, please make donations by quick payi
 <img src="http://blog.evalbug.com/images/wechatimg.png" style="width:35%;"/>
 
 Any donations will be grateful.
+**PLEASE ADD REMARK WHEN DONATION**
 
 ### <a name="doc_howto">How To Edit Documents
 
