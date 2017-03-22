@@ -12,5 +12,5 @@
 
 [Project](https://github.com/antoor/antSword)
 
-[Read Manually Online](https://medicean.gitbooks.io/antsword/content/)
+[Read online manual](https://medicean.gitbooks.io/antsword/content/)
 
