@@ -6,16 +6,14 @@
 ##### 1.获取蚁剑源代码
 
 ```
-$ git clone https://github.com/antoor/antSword.git
+$ git clone https://github.com/AntSwordProject/AntSword.git -b v2.0-beta
 ```
 
-或点击[这里](https://github.com/antoor/antSword/archive/master.zip)下载最新源代码
-
-当然，你也可以前往[源代码发布页面](https://github.com/antoor/antSword/releases)，下载最新的源代码。
+**强烈推荐**使用 git 获取源代码，方便后续随时拉取最新代码
 
 > 注意:
 >
-> 蚁剑的源代码仅托管在 [Github](https://github.com/antoor/antSword)，为杜绝源代码中植入后门，官方团队强烈建议使用者从官方仓库获取源代码。
+> 蚁剑的源代码仅托管在 [Github](https://github.com/AntSwordProject/AntSword)，为杜绝源代码中植入后门，官方团队强烈建议使用者从官方仓库获取源代码。
 
 ##### 2.下载蚁剑加载器
 
@@ -23,11 +21,11 @@ $ git clone https://github.com/antoor/antSword.git
 
 请根据当前使用的操作系统，选择加载器：
 
-* [AntSword-darwin-x64.zip]()
-* [AntSword-linux-ia32.zip]()
-* [AntSword-linux-x64.zip]()
-* [AntSword-windows-ia32.zip]()
-* [AntSword-windows-x64.zip]()
+操作系统 | 下载地址 | MD5
+:--|:--|:--
+OS X | [AntSword-darwin-x64.zip]() | 70d6872fffe87b897b42decbbd4fd98b
+Linux 64位 | [AntSword-linux-x64.zip]() | 15cf5c9d7ce8f89987ee348ba5bf66ef
+Windows 64位 | [AntSword-windows-x64.zip]() | e131e421242b71ea10dcaa849a46ada9
 
 ##### 3. 加载源代码
 

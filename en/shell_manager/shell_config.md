@@ -43,7 +43,7 @@ The basic config of shells includes basic information only. Connectivity of shel
 
  You can choose `PHP`, `ASP`, `ASPX`, `CUSTOM`.
 
- > If you choose use `CUSTOM`, please make sure that the server can interpret your scripts. Reference ==> [HERE](https://github.com/antoor/antSword/tree/master/shells)
+ > If you choose use `CUSTOM`, please make sure that the server can interpret your scripts. Reference ==> [HERE](https://github.com/AntSwordProject/AntSword/tree/master/shells)
 
  Users can write your own shells. More details.[Develop Custom Webshells](../core_dev/shell/custom_shells.md)
 
@@ -75,7 +75,7 @@ The basic config of shells includes basic information only. Connectivity of shel
 
  * **xxxxdog**
 
-   Examples of cutomizeable encoder: (ONLY IN ASP) you have to use it with [asp_eval_xxxxdog.asp](https://github.com/antoor/antSword/tree/master/shells/asp_eval_xxxxdog.asp). **RECOMMENDED**
+   Examples of cutomizeable encoder: (ONLY IN ASP) you have to use it with [asp_eval_xxxxdog.asp](https://github.com/AntSwordProject/AntSword/tree/master/shells/asp_eval_xxxxdog.asp). **RECOMMENDED**
 
    You may use classical cryptography, DES, AES or others to transfer data. Please see more details in [Encoder Development](../core_dev/encoder/README.md)
 

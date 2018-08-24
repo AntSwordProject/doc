@@ -42,7 +42,7 @@ Any donations will be grateful.
 
 ### <a name="doc_howto">How To Edit Documents
 
-1. Fork [AntSword](https://github.com/antoor/antSword) into your own Github's repo.
+1. Fork [AntSword](https://github.com/AntSwordProject/AntSword) into your own Github's repo.
 2. Clone your repo into your local and switch to branch named `doc`
 3. Write your documents
 4. Push your documents into your remote repo.

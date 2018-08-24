@@ -43,7 +43,7 @@ Shell 配置
 
  当前 Shell 解释器类型，可选 PHP, ASP, ASPX, CUSTOM(自定义类型)
 
- > 如果选择 CUSTOM 类型，需要使用特定的接口的服务端脚本，参考[Shell 范例](https://github.com/antoor/antSword/tree/master/shells)
+ > 如果选择 CUSTOM 类型，需要使用特定的接口的服务端脚本，参考[Shell 范例](https://github.com/AntSwordProject/AntSword/tree/master/shells)
 
  用户可根据当前服务端环境自行编写 CUSTOM 类 Shell，详情参考[CUSTOM 类服务端开发](../core_dev/shell/custom_shells.md)
 
@@ -75,7 +75,7 @@ Shell 配置
 
  * **xxxxdog**
 
-   自定义编码器示例，ASP 类型独有，需要配合 [asp_eval_xxxxdog.asp](https://github.com/antoor/antSword/tree/master/shells/asp_eval_xxxxdog.asp) 服务端使用(**推荐**)
+   自定义编码器示例，ASP 类型独有，需要配合 [asp_eval_xxxxdog.asp](https://github.com/AntSwordProject/AntSword/tree/master/shells/asp_eval_xxxxdog.asp) 服务端使用(**推荐**)
 
  除了在通信中编码处理外，还可对传输数据使用 古典密码、DES、AES 等对称加密算法加密通信数据。详见[编码器开发](../core_dev/encoder/README.md)
 

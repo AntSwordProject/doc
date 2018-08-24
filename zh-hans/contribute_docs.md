@@ -38,7 +38,7 @@ AntSword 需要您的帮助，包括但不限于[插件开发](plugin_dev/README
 
 ### <a name="doc_howto">文档完善流程
 
-1. fork [AntSword](https://github.com/antoor/antSword) 到您自己的 Github 仓库
+1. fork [AntSword](https://github.com/AntSwordProject/AntSword) 到您自己的 Github 仓库
 2. Clone 您自己的仓库到本地，并切换至 `doc` 分支
 3. 编写
 4. 推送代码至您自己的远端仓库

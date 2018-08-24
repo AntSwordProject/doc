@@ -61,6 +61,14 @@
 
 * **粘贴文件**
 
+* **预览文件**
+
+ 预览图片文件(仅支持如下后缀名 jpeg,jpg,png,gif,bmp,ico)
+
+ > Tips: 双击图片可快速预览，仅支持快速预览 < 1MB 的图片。如果想预览体积较大文件，可右键点击该文件，在弹出的菜单中选择「预览文件」。
+
+ ![][previewfile]
+
 * **编辑文件**
 
  编辑当前选中的文件。
@@ -78,3 +86,5 @@
  将文件的「创建(Access)时间戳」和「修改(Modify)时间戳」修改为指定的时间戳
 
  > Tips: 无法通过此方式修改文件的 Change Time
+
+[previewfile]: http://7xtigg.com1.z0.glb.clouddn.com/doc/file_manager/previewfile.png

@@ -25,6 +25,7 @@
     * [获取插件](plugin_store/get_plugin.md)
     * [卸载插件](plugin_store/uninstall_plugin.md)
 * [加载插件](plugins/load_plugin.md)
+* [系统设置](settings/README.md)
 * [开发入门](develop/quick_start.md)
 * [插件开发](plugin_dev/README.md)
     * [插件简介](plugin_dev/introduce.md)

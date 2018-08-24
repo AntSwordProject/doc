@@ -1,7 +1,7 @@
 ﻿AntSword
 ===
 
-[Fork me on GitHub](https://github.com/antoor/antSword)
+[Fork me on GitHub](https://github.com/AntSwordProject/AntSword)
 
 > AntSword in your hands, no worries in your mind！
 

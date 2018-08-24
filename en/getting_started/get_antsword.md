@@ -6,16 +6,16 @@ Get AntSword
 ##### 1.Get source code of AntSword
 
 ```
-$ git clone https://github.com/antoor/antSword.git
+$ git clone https://github.com/AntSwordProject/AntSword.git
 ```
 
-Or click [here](https://github.com/antoor/antSword/archive/master.zip) to get the latest code.
+Or click [here](https://github.com/AntSwordProject/AntSword/archive/master.zip) to get the latest code.
 
-Of course, you also can go to [release page](https://github.com/antoor/antSword/releases) to get latest source code.
+Of course, you also can go to [release page](https://github.com/AntSwordProject/AntSword/releases) to get latest source code.
 
 > Notice:
 >
-> The source code of AntSword can only get from [Github](https://github.com/antoor/antSword). In order to get rid of backdoors in the source code, the official team `STRONGLY` suggests get source code from the official repository.
+> The source code of AntSword can only get from [Github](https://github.com/AntSwordProject/AntSword). In order to get rid of backdoors in the source code, the official team `STRONGLY` suggests get source code from the official repository.
 
 ##### 2.Download AntSword Loader.
 

@@ -62,7 +62,7 @@
 
 ##### 范例1
 
-以 [AntSword JSP Custom Script for Mysql](https://github.com/antoor/antSword/blob/master/shells/jsp_custom_script_for_mysql.jsp)这个 Shell 为例，第 18 行说明了该 Shell 的数据库连接字符串：
+以 [AntSword JSP Custom Script for Mysql](https://github.com/AntSwordProject/AntSword/blob/master/shells/jsp_custom_script_for_mysql.jsp)这个 Shell 为例，第 18 行说明了该 Shell 的数据库连接字符串：
 
 ```
 com.mysql.jdbc.Driver
@@ -73,7 +73,7 @@ jdbc:mysql://localhost/test?user=root&password=123456
 
 ##### 范例2
 
-以[AntSword PHP Custom Script for Mysql](https://github.com/antoor/antSword/blob/master/shells/php_custom_script_for_mysql.php)为例，第 19 行说明了该 Shell 的数据库连接字符串：
+以[AntSword PHP Custom Script for Mysql](https://github.com/AntSwordProject/AntSword/blob/master/shells/php_custom_script_for_mysql.php)为例，第 19 行说明了该 Shell 的数据库连接字符串：
 
 ```
 <H>localhost</H>
