@@ -1,0 +1,6 @@
+{
+  "title": "AntSword",
+  "description": "AntSword is an open source, cross-platform website administration tool, being designed to meet the needs of penetration testers together with security researchers with permissions and/or authorizations as well as webmasters.",
+  "language": "en",
+  "gitbook": ">=2.0.0"
+}
