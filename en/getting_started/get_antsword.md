@@ -41,5 +41,5 @@ Click 「`Initialize`」, select the directory of source code in 「`step 1`」.
 
 > Are you still in the installation? I'm sorry to tell you: Everything is done. :>
 
-[img_get_antsword_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/get_antsword_1.jpg
-[img_get_antsword_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/get_antsword_2.jpg
+[img_get_antsword_1]: http://antsword.l1n3.net/doc/getting_started/get_antsword_1.jpg
+[img_get_antsword_2]: http://antsword.l1n3.net/doc/getting_started/get_antsword_2.jpg

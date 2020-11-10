@@ -39,7 +39,7 @@ After filling in anything needed, don't be hurry to `save` button. Firstly click
 
 > More ways of using AntSword are waiting for you to find.
 
-[img_aproxy_settings_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/aproxy_settings_1.jpg
-[img_aproxy_settings_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/aproxy_settings_2.jpg
-[img_aproxy_settings_3]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/aproxy_settings_3.jpg
-[img_aproxy_settings_4]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/aproxy_settings_4.jpg
+[img_aproxy_settings_1]: http://antsword.l1n3.net/doc/getting_started/aproxy_settings_1.jpg
+[img_aproxy_settings_2]: http://antsword.l1n3.net/doc/getting_started/aproxy_settings_2.jpg
+[img_aproxy_settings_3]: http://antsword.l1n3.net/doc/getting_started/aproxy_settings_3.jpg
+[img_aproxy_settings_4]: http://antsword.l1n3.net/doc/getting_started/aproxy_settings_4.jpg

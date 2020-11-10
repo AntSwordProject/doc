@@ -18,4 +18,4 @@ Windows | `cmd`
 
 默认情况下，虚拟终端**不使用**缓存，如果网络状况不良，可勾选「虚拟终端使用缓存」
 
-[img_main_page_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/terminal/terminal_config_1.png
+[img_main_page_1]: http://antsword.l1n3.net/doc/terminal/terminal_config_1.png

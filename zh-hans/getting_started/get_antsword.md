@@ -39,5 +39,5 @@ Windows 64位 | [AntSword-windows-x64.zip]() | e131e421242b71ea10dcaa849a46ada9
 
 > 你是否还沉浸在愉悦的安装过程中？很遗憾，一切皆已完成。：）
 
-[img_get_antsword_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/get_antsword_1.jpg
-[img_get_antsword_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/get_antsword_2.jpg
+[img_get_antsword_1]: http://antsword.l1n3.net/doc/getting_started/get_antsword_1.jpg
+[img_get_antsword_2]: http://antsword.l1n3.net/doc/getting_started/get_antsword_2.jpg

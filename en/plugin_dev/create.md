@@ -190,7 +190,7 @@ You may find out difference while using different encoders.
 
 > Next sectioin: Debuging tricks.
 
-[img_create_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_dev/create_1.png
-[img_create_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_dev/create_2.png
-[img_create_3]: http://7tigg.com1.z0.glb.clouddn.com/doc/plugin_dev/create_3.png
-[img_create_4]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_dev/create_4.png
+[img_create_1]: http://antsword.l1n3.net/doc/plugin_dev/create_1.png
+[img_create_2]: http://antsword.l1n3.net/doc/plugin_dev/create_2.png
+[img_create_3]: http://antsword.l1n3.net/doc/plugin_dev/create_3.png
+[img_create_4]: http://antsword.l1n3.net/doc/plugin_dev/create_4.png
